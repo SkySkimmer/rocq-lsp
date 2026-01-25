@@ -49,6 +49,30 @@ Assistant](https://rocq-prover.org/), and a few other components. See our
 for [Emacs](#emacs), [Vim](#vim) and [Neovim](#neovim) is also available in
 their own projects.
 
+**Citation**
+
+You can cite Rocq-lsp technical report and code repository as follows:
+
+```bibtex
+@software{rocq-lsp,
+  author       = {Gallego Arias, Emilio Jesús and rocq-lsp contributors},
+  title        = {Rocq-lsp: Visual Studio Code Extension and Language Server Protocol for Rocq}
+  year         = {2025},
+  version      = {v0.2.5},
+  url          = {https://github.com/ejgallego/rocq-lsp},
+  urldate      = {2025-11-30},
+  note         = {GitHub repository}
+}
+
+@techreport{2025:fleche,
+  author       = {Gallego Arias, Emilio Jesús},
+  title        = {Flèche: Incremental Validation for Hybrid Formal Documents},
+  institution  = {IRIF, CNRS, Univ. Paris Cité, INRIA},
+  year         = {2025},
+  date         = {2025-11-30}
+}
+```
+
 **Quick Install**:
 
   - **🐧 Linux / 🍎 macOs / 🪟 Windows:**
@@ -454,12 +478,13 @@ to query and interact with Rocq documents.
 
 ## 🥷 Team
 
-- Ali Caglayan (co-coordinator)
-- Emilio J. Gallego Arias (Inria Paris, co-coordinator)
-- Shachar Itzhaky (Technion)
+- Rocq-community
 
 ### 🕰️ Past Contributors
 
+- Emilio J. Gallego Arias (Inria Paris, co-coordinator)
+- Ali Caglayan (co-coordinator)
+- Shachar Itzhaky (Technion)
 - Vincent Laporte (Inria)
 - Ramkumar Ramachandra (Inria Paris)
 

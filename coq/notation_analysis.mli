@@ -5,7 +5,7 @@
 (* Copyright 2025      CNRS                     -- LGPL 2.1+ / GPL3+     *)
 (* Written by: Emilio J. Gallego Arias & coq-lsp contributors            *)
 (*************************************************************************)
-(* Rocq Language Server Protocol: Rocq parsing API                       *)
+(* Rocq Language Server Protocol: Rocq Notation Analysis API             *)
 (*************************************************************************)
 
 module Info : sig

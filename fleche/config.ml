@@ -5,6 +5,8 @@
 (* Copyright 2025      CNRS                    -- LGPL 2.1+ / GPL3+     *)
 (* Written by: Emilio J. Gallego Arias & coq-lsp contributors           *)
 (************************************************************************)
+(* Rocq Language Server Protocol: Core Configuration                    *)
+(************************************************************************)
 
 module Completion = struct
   (** Module that enables LaTeX-like completion for unicode symbols *)

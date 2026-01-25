@@ -5,5 +5,7 @@
 (* Copyright 2025      CNRS                    -- LGPL 2.1+ / GPL3+     *)
 (* Written by: Emilio J. Gallego Arias & coq-lsp contributors           *)
 (************************************************************************)
+(* Flèche => document manager: Perf analysis                            *)
+(************************************************************************)
 
 val make : Doc.t -> Perf.t
